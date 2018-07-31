@@ -84,7 +84,6 @@
                         <descriptor>src/assembly/development.xml</descriptor>
                         <descriptor>src/assembly/package.xml</descriptor>
                     </descriptors>
-                    <attach>false</attach>
                 </configuration>
                 <executions>
                     <execution>

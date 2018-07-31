@@ -21,7 +21,7 @@
     <!-- Assembles a packaged version targeting OS installation. -->
     <id>package</id>
     <formats>
-        <format>dir</format>
+        <format>zip</format>
     </formats>
     <includeBaseDirectory>false</includeBaseDirectory>
     <fileSets>
